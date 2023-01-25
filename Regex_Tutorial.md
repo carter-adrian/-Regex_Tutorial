@@ -46,7 +46,7 @@ this will match any string that contains a-z, 0-9, _, ., or -. The quantifier `+
 
 `\d` is present in the given matching email code and what it will match a single letter character, a-z, after the `@` sign in the email address. Basically ensuring that a letter is matched after the `@` in the email and not a number or special character. 
 
-### OR Operator
+### The OR Operator
 
 It is not present in the code for the given matching email code, but in order to talk about the OR Operator, we will look at the following code for matching a hex code. 
 
